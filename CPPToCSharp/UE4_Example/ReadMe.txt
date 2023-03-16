@@ -1,0 +1,1 @@
+In UE4 create a Blueprint Function Libary and copy what is in the example. In your project location create a Plugins folder and a sub folder that has has the compiled dll file within it.

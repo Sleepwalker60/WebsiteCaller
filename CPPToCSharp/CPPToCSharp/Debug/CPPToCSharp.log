@@ -1,0 +1,5 @@
+﻿  MyFunction.cpp
+C:\Temp\CPPToCSharp\CPPToCSharp\MyFunction.cpp(56,7): warning C4101: 'm': unreferenced local variable
+C:\Temp\CPPToCSharp\CPPToCSharp\MyFunction.cpp(154,21): warning C4101: 'dwRead': unreferenced local variable
+C:\Temp\CPPToCSharp\CPPToCSharp\MyFunction.cpp(192): warning C4172: returning address of local variable or temporary: placeHolder
+  CPPToCSharp.vcxproj -> C:\Temp\CPPToCSharp\Debug\CPPToCSharp.exe
